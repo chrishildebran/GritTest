@@ -20,6 +20,9 @@
     <BootstrapperEnabled>true</BootstrapperEnabled>
     <StartupObject />
     <NoWin32Manifest>true</NoWin32Manifest>
+    <AssemblyTitle>Gritv3.GritTest.Properties</AssemblyTitle>
+    <AssemblyVersion>2018.1.24.1421</AssemblyVersion>
+    <FileVersion>2018.1.24.1421</FileVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DocumentationFile>bin\Release\GritTest.xml</DocumentationFile>
